@@ -432,14 +432,14 @@ a.icon {
   padding-top: 150px !important;
 }
 .header-two {
-  background: url('/TUTVimages/Snowy\ Newman_8x_cropped.jpg') no-repeat 100% 100% fixed;
+  background: url('/christina-boul.github.io/TUTVimages/Snowy\ Newman_8x_cropped.jpg') no-repeat 100% 100% fixed;
   
 }
 .header-three {
-  background: url('../images/header-three-bg.jpg') no-repeat;
+  background: url('/christina-boul.github.io/TUTVimages/darren-nunis-cxE7SXKnzv0-unsplash.jpg') no-repeat 100% 100% fixed;
 }
 .header-four {
-  background: url('../images/header-four-bg.jpg') no-repeat;
+  background: url('/christina-boul.github.io/TUTVimages/annie-spratt-cZkFw06aX_8-unsplash.jpg') no-repeat 100% 100% fixed;
 }
 .header-five {
   background: url('../images/header-five-bg.jpg') no-repeat;
@@ -694,14 +694,14 @@ a.icon {
 /* contact section styles
 /* ========================================== */
 #contact {
+  align-self: auto;
   padding-top: 5rem;
   padding-bottom: 0rem;
 }
 
 #contact .fa {
   font-size: 32px;
-  padding-right: 10px;
-}
+  padding-right: 10px;}
 
 #contact #map-canvas  {
   border: none;
